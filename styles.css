@@ -1,10 +1,19 @@
 * {
     background-color: black;
     color: red;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    box-sizing: border-box;
+    padding: 0 ;
+    margin: 0;
+    font-size: 22px;
 }
 
 h1 {
     text-align: center;
+    padding: 20px;
+    margin: 20px;
+    font-size: 42px;
 }
 
 p {
@@ -14,4 +23,21 @@ p {
 ul {
     text-align: center;
     list-style: none;
+}
+
+.links {
+    outline: 1px dotted red;
+    height: 250px;
+    width: 250px; 
+    text-align: center;
+    margin: auto;
+}
+
+.tagline {
+    padding: 20px; 
+    margin: 40px;
+}
+
+.link {
+    padding: 15px;
 }
