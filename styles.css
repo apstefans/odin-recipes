@@ -27,7 +27,7 @@ ul {
 
 .links {
     outline: 1px dotted red;
-    height: 250px;
+    height: 230px;
     width: 250px; 
     text-align: center;
     margin: auto;
@@ -40,4 +40,8 @@ ul {
 
 .link {
     padding: 15px;
+}
+
+a {
+    text-decoration: none;
 }
